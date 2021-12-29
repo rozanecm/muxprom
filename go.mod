@@ -1,4 +1,4 @@
-module github.com/rusart/muxprom
+module github.com/rozanecm/muxprom
 
 go 1.13
 
